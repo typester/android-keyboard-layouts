@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Keyboard Layouts</string>
+    <string name="keyboard_layouts_label">My Custom Keyboard Layouts</string>
+    <string name="keyboard_layout_rbk_2000bt_label">RBK-2000BT</string>
 </resources>

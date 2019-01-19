@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
+    <keyboard-layout android:name="keyboard_layout_rbk_2000bt"
+        android:label="@string/keyboard_layout_rbk_2000bt_label"
+        android:keyboardLayout="@raw/keyboard_layout_rbk_2000bt"/>
+</keyboard-layouts>

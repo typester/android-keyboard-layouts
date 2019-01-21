@@ -3,4 +3,7 @@
     <keyboard-layout android:name="keyboard_layout_rbk_2000bt"
         android:label="@string/keyboard_layout_rbk_2000bt_label"
         android:keyboardLayout="@raw/keyboard_layout_rbk_2000bt"/>
+    <keyboard-layout android:name="keyboard_layout_gemini"
+        android:label="Gemini"
+        android:keyboardLayout="@raw/keyboard_layout_gemini"/>
 </keyboard-layouts>
